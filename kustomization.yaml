@@ -6,4 +6,4 @@ resources:
 images:
 - name: nginx
   newName: 491818659652.dkr.ecr.ap-northeast-2.amazonaws.com/nginx
-  newTag: v1.0.0
+  newTag: v1.0.1
